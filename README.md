@@ -1,14 +1,14 @@
 # Hi there 👋
 ## I'm Hasnaat 
 
-I am a recent Computer Science Graduate 🎓 and currently working as a Junior Full Stack Developer 👨🏻‍💻
+I am a recent Computer Science Graduate 🎓 and currently working as a Full Stack Developer 👨🏻‍💻
 
 I have experience with the following technologies:
 - Java
+- JavaScript
 - ASP.NET (C#/VB)
 - HTML
 - CSS
-- JavaScript
 - PHP
 
 I am currently taking on the 100 days of challenge with the end goal of learning React. Follow along my journey [here](https://www.instagram.com/HasnaatCodes).
