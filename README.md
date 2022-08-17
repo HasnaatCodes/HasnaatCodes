@@ -5,11 +5,10 @@ I am a recent Computer Science Graduate 🎓 and currently working as a Full Sta
 
 I have experience with the following technologies:
 - Java
-- JavaScript
-- ASP.NET (C#/VB)
+- React (JavaScript)
+- .NET Core (C#)
 - HTML
 - CSS
-- PHP
 
 I am currently taking on the 100 days of challenge with the end goal of learning React. Follow along my journey [here](https://www.instagram.com/HasnaatCodes).
 
