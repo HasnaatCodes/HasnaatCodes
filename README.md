@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I'm Hasnaat 
 
-I am a recent Computer Science Graduate 🎓 and currently working as a Full Stack Developer 👨🏻‍💻
+I am a recent Computer Science Graduate 🎓 and currently working as a Backend Engineer 👨🏻‍💻
 
 I have experience with the following technologies:
 - Java
@@ -10,10 +10,10 @@ I have experience with the following technologies:
 - HTML
 - CSS
 
-Follow along my journey [here](https://www.instagram.com/HasnaatCodes).
+Follow along my journey.
 
 ### Connect with me:
-[<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/HasnaatAkhtar/)  [<img src='https://img.icons8.com/fluent/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/HasnaatCodes/)  [<img src='https://img.icons8.com/fluent/48/000000/twitter.png' alt='twitter'>](https://twitter.com/HasnaatCodes)  
+[<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/HasnaatAkhtar/)
 
 
 <!--
